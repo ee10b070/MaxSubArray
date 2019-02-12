@@ -6,8 +6,8 @@
 
 #go to class path and excute following commands  and pass the input 
 
-javac MaxSubArray.java
-java MaxSubArray -2 1 -3 4 -1 2 1 -5 4
+#javac MaxSubArray.java
+#java MaxSubArray -2 1 -3 4 -1 2 1 -5 4
 
 
 ex: sample test cases 
