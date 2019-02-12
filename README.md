@@ -1,10 +1,10 @@
 # MaxSubArray
 
-#Commands to run class 
-
 #download the code 
 
-# got to class path and excute follwing commands  and pass the input 
+#Commands to run class 
+
+#go to class path and excute following commands  and pass the input 
 
 javac MaxSubArray.java
 java MaxSubArray -2 1 -3 4 -1 2 1 -5 4
